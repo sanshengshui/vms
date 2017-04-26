@@ -1,0 +1,8 @@
+com/mektec/vms/service/WorkStationServiceTest.class
+com/mektec/vms/service/ProductLineServiceTest.class
+com/mektec/vms/service/DefectServiceTest.class
+com/mektec/vms/service/LotServiceTest.class
+com/mektec/vms/config/AppConfigForTest.class
+com/mektec/vms/service/SqlScriptServiceTest.class
+com/mektec/vms/service/LocationServiceTest.class
+com/mektec/vms/service/TerminalServiceTest.class
